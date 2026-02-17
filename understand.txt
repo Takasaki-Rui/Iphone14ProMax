@@ -44,12 +44,6 @@ You want me to revise all the functions to properly reflect:
 4. Android-specific modifications
 5. Complete Metal 3 feature translations
 
-And provide the complete, fully detailed implementation of all functions with no placeholders or missing parts, right?
-
-Would you like me to proceed with creating the complete, Metal API-accurate version of all these functions?
-
-
-Here's the revised verify_performance_metrics function with iPhone 14 Pro Max's Metal performance metrics adapted for Adreno:
 
 This version includes:
 1. A16 Bionic performance tracking
@@ -63,16 +57,7 @@ This version includes:
 9. Neural Engine metrics
 10. Resource utilization tracking
 
-Would you like me to continue with revising the final function with iPhone 14 Pro Max specific features? .( This was a message to make you understand)
 
-I don't have anything already which you will provide me in the script so provide me all the calling etc which you will give in the script .
- 
-Now see all the scripts are made already by you ok . But in that you have used only simple wording only 5% of everything works . So only wording won't work which doesn't exist right 
-
-but again I will say anything you provide don't exist already . This is the 1 huge message.
-
-
-Project :- New custom metal api , ios 16 graphics driver , gyroscope and audio (iphone 14 pro max version modified to work for android)
 
 Structure 
 
